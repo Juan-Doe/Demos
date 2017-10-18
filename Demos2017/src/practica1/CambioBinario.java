@@ -1,4 +1,3 @@
-package practica1;
 /**
  * CambioBinario.java
  * Programa para mostrar cambio de base con envoltorios.

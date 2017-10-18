@@ -1,5 +1,3 @@
-package practica1;
-
 /**
  * DemoConsola.java
  * Programa que pide nombre, apellidos y edad mostrándolos después.

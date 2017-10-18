@@ -1,4 +1,3 @@
-package practica1;
 /**
  * Hola2.java
  * Programa ejemplo que muestra mensajes por pantalla con información variable.

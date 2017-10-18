@@ -1,4 +1,3 @@
-package practica1;
 /**
  * Hola1.java
  * Programa ejemplo que muestra un mensaje simple por pantalla.

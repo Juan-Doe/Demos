@@ -1,6 +1,3 @@
-
-package practica1;
-
 /**
  * Enteros.java
  * Programa para mostrar constantes predefinidas en envoltorio Integer.

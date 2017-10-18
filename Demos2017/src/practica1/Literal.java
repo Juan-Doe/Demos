@@ -1,11 +1,10 @@
-package practica1;
-import java.util.Scanner;
-
 /**
  * Literal.java
  * Programa que comprueba los tipos de valores literales.
  * ajp - 2015.10.7
  */
+
+import java.util.Scanner;
 
 public class Literal {
 	public static void main(String[] args) {	

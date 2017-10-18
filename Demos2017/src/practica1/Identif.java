@@ -1,4 +1,3 @@
-package practica1;
 /**
  * Identif.java
  * Programa que comprueba la validez de identifcadores.
