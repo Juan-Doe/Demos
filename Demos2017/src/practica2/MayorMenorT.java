@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class MayorMenorT {
 
-	
-
 	public static void main(String[] args) {
 		 
 		final int MIN_DATOS_VALIDOS = 2;
@@ -47,9 +45,8 @@ public class MayorMenorT {
 			if (datoEntrada < 0) {
 				System.out.println("Error: El dato debe ser positivo");
 			}
-
+			
 		} while (noFinPrograma);
-
 
 		System.out.println("Resultados: ");
 		System.out.println("el mayor " + elMayor);
